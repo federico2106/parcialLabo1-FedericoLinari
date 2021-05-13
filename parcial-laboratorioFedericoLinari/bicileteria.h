@@ -24,5 +24,6 @@ typedef struct
 int Menu ();
 int inicializarTrabajo (eTrabajo listaTrabajo[], int tam);
 int buscarLIbre (eTrabajo listaTrabajo[], int cant);
-int altaTrabajo(eTrabajo listaTrabajo[],int tam,int id)
+int altaTrabajo(eTrabajo listaTrabajo[],int tam,int id);
+int getInt(eTrabajo listaTrabajo[],char mensaje[],char mensajeError[]);
 

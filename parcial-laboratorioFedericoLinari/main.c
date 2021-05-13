@@ -58,12 +58,12 @@ int main()
                  system("pause");
             break;
             case 2:
-
-            system("pause");
-
+               ModificarTrabajo(miTrabajo,TAM);
+               system("pause");
             break;
             case 3:
-
+                bajaTrabajo(miTrabajo,TAM);
+                system("pause");
             break;
             case 4:
 
@@ -78,6 +78,7 @@ int main()
         }
 
     }while (seguir == 's');
+
     return 0;
 }
 

@@ -1,14 +1,14 @@
 # depslib dependency file v1.0
-1620910484 source:e:\parcial-laboratoriofedericolinari\bicileteria.c
+1620912530 source:e:\parcial-laboratoriofedericolinari\bicileteria.c
 	<stdio.h>
 	<stdlib.h>
 	"bicileteria.h"
 
-1620910586 e:\parcial-laboratoriofedericolinari\bicileteria.h
+1620911262 e:\parcial-laboratoriofedericolinari\bicileteria.h
 	<stdio.h>
 	<stdlib.h>
 
-1620910756 source:e:\parcial-laboratoriofedericolinari\main.c
+1620913003 source:e:\parcial-laboratoriofedericolinari\main.c
 	<stdio.h>
 	<stdlib.h>
 	"bicileteria.h"
